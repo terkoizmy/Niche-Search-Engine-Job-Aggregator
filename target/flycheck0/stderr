@@ -1,8 +1,0 @@
-warning: /home/terkoiz/kuliah/Niche-Search-Engine-Job-Aggregator/server/Cargo.toml: unused manifest key: overrides
-warning: /home/terkoiz/kuliah/Niche-Search-Engine-Job-Aggregator/scraper/Cargo.toml: unused manifest key: package.common
-warning: /home/terkoiz/kuliah/Niche-Search-Engine-Job-Aggregator/scraper/Cargo.toml: unused manifest key: package.regex
-warning: /home/terkoiz/kuliah/Niche-Search-Engine-Job-Aggregator/scraper/Cargo.toml: unused manifest key: package.reqwest
-warning: /home/terkoiz/kuliah/Niche-Search-Engine-Job-Aggregator/scraper/Cargo.toml: unused manifest key: package.scraper
-warning: /home/terkoiz/kuliah/Niche-Search-Engine-Job-Aggregator/scraper/Cargo.toml: unused manifest key: package.serde
-warning: /home/terkoiz/kuliah/Niche-Search-Engine-Job-Aggregator/scraper/Cargo.toml: unused manifest key: package.serde_json
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.08s
