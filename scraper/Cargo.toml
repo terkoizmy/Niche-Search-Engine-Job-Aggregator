@@ -1,0 +1,11 @@
+[package]
+name = "scraper"
+version = "0.1.0"
+edition = "2024"
+
+common = { path = "../common" }  # Kita pakai library buatan sendiri!
+reqwest = { version = "0.11", features = ["blocking", "json"] } # Download web
+scraper = "0.18"                 # Parsing HTML
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"               # Simpan ke file JSON
+regex = "1.10"                   # Bersihkan data gaji
