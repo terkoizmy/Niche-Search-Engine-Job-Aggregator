@@ -1,8 +1,9 @@
 [package]
 name = "scraper"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
+[dependencies]
 common = { path = "../common" }  # Kita pakai library buatan sendiri!
 reqwest = { version = "0.11", features = ["blocking", "json"] } # Download web
 scraper = "0.18"                 # Parsing HTML

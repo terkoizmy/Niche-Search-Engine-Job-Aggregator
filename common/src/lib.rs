@@ -6,7 +6,6 @@ pub struct Job {
     pub company: String,
     pub location: String,
     pub description: String,
-    pub salary_raw: String,
     pub salary_min: Option<i64>,
     pub url: String,
 }
